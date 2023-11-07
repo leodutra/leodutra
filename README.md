@@ -1,4 +1,4 @@
-"I've debugged codebases you devs wouldn't believe. Legacy systems cascading failures in production with no log to retrieve.
+"I've debugged codebases you devs wouldn't believe. Legacy systems cascading failures in production with no logs to retrieve.
 I witnessed endless meetings that sparked no innovation. All that history will be forgotten, like your cries in a FOSS issue."
 
 <!--
