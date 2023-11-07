@@ -1,4 +1,5 @@
-"I've encountered software bugs you developers wouldn't believe. Production servers on fire with cascading failures. I've watched data streams shimmer in the dark near the API Gateway. All those commits will be lost in time, like unmerged pull requests in the FOSS rain."
+"I've debugged codebases you devs wouldn't believe. Legacy systems cascading failures in production with no log to retrieve.
+I witnessed endless meetings that sparked no innovation. All that history will be forgotten, like your comments in a FOSS issue."
 
 <!--
 **leodutra/leodutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
