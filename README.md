@@ -1,4 +1,4 @@
-### Hi there 👋
+"I've encountered software bugs you developers wouldn't believe. Production servers on fire with cascading failures. I've watched data streams shimmer in the dark near the API Gateway. All those commits will be lost in time, like unmerged pull requests in the repository."
 
 <!--
 **leodutra/leodutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
