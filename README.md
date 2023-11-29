@@ -1,6 +1,8 @@
 "I've debugged codebases you devs wouldn't believe. Legacy systems cascading failures in production with no logs to retrieve.
 I witnessed endless meetings that sparked no innovation. All that history will be forgotten, like tears in an issue."
 
+![image](https://github.com/leodutra/leodutra/assets/444344/9d872d7a-4fac-44a0-81ec-bfee3c988d64)
+
 <!--
 **leodutra/leodutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
