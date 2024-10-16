@@ -3,6 +3,8 @@ I witnessed endless meetings that sparked no innovation. All that history will b
 
 ![image](https://github.com/leodutra/leodutra/assets/444344/9d872d7a-4fac-44a0-81ec-bfee3c988d64)
 
+ Most of my work is private, so we have a few starred repos here. Sorry.
+
 <!--
 **leodutra/leodutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
