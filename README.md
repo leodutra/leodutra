@@ -27,7 +27,6 @@ Recently I’ve been focusing on building **AI-native systems**, combining LLM a
 - **vector databases and embeddings**
 - **Model Context Protocol (MCP)**
 - **local LLM inference**
-- **WebAssembly**
 
 ---
 
