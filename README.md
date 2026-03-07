@@ -20,8 +20,6 @@ My background spans full-stack architecture, distributed backend systems, and he
 |---|---|
 | [**simpleflakes**](https://github.com/leodutra/simpleflakes) | Fast distributed 64-bit ID generator inspired by Snowflake |
 | [**country-emoji**](https://github.com/leodutra/country-emoji) | Rust library for converting between country names, ISO codes, and flag emojis |
-| [**newsapi**](https://github.com/leodutra/newsapi) | Lightweight News API client |
-| [**imdb**](https://github.com/leodutra/imdb) | Simple IMDb data utilities |
 | [**arduino-joy-rs**](https://github.com/leodutra/arduino-joy-rs) | Rust experiment for interfacing Arduino-based controllers |
 
 ## Data & Scraping
