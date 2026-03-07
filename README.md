@@ -57,8 +57,8 @@ https://github.com/leodutra/arduino-joy-rs
 
 Small utilities and API integrations:
 
-- https://github.com/leodutra/newsapi  
-- https://github.com/leodutra/imdb  
+- https://github.com/biomunky/newsapi
+- https://github.com/yoursvivek/imdb  
 
 ## Developer Guides
 
