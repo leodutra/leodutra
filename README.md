@@ -39,5 +39,4 @@ My background spans full-stack architecture, distributed backend systems, and he
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leobr)  
-[![StackShare](https://img.shields.io/badge/StackShare-0690FA?style=flat&logo=stackshare&logoColor=white)](https://stackshare.io/leodutra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leobr) [![StackShare](https://img.shields.io/badge/StackShare-0690FA?style=flat&logo=stackshare&logoColor=white)](https://stackshare.io/leodutra)
