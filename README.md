@@ -16,6 +16,10 @@ My background spans full-stack architecture, distributed backend systems, and he
 
 ## Selected Projects
 
+Most of my professional work lives in private repositories — either developed for companies under NDA or as part of proprietary products.
+
+Here is a selection of open-source projects and public work I’ve shared:
+
 | Project | Description |
 |---|---|
 | [**simpleflakes**](https://github.com/leodutra/simpleflakes) | Fast distributed 64-bit ID generator inspired by Snowflake |
