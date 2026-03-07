@@ -2,17 +2,15 @@
 
 Rust • Distributed Systems • AI Infrastructure • Headless Commerce
 
-Staff Software Engineer focused on **high-performance systems, distributed platforms, and AI infrastructure**.
+Staff Software Engineer focused on high-performance systems, distributed platforms, and AI infrastructure.
 
-I have 20+ years of experience designing and scaling production systems for global companies in **e-commerce, fintech, legaltech, and gaming**, including platforms used by millions of users.
+I have 20+ years of experience designing and scaling production systems for global companies in e-commerce, fintech, legaltech, and gaming, including platforms used by millions of users.
 
-My background spans full-stack architecture, distributed backend systems, and headless commerce platforms, with a focus on Shopify Headless (Hydrogen/Remix), React, TypeScript, and Node.js.
+My background spans full-stack architecture, distributed backend systems, and headless commerce platforms, particularly using Shopify Headless (Hydrogen/Remix), React, TypeScript, and Node.js.
 
-More recently, I’ve been exploring **AI-native systems**, integrating LLM agents, retrieval pipelines, and scalable infrastructure using Rust and modern web technologies.
+More recently, I’ve been exploring AI-native systems, integrating LLM agents, retrieval pipelines, and scalable infrastructure using Rust and modern web technologies.
 
----
-
-# Some Public Projects
+## Selected Projects
 
 ### simpleflakes
 Fast distributed **64-bit ID generator** inspired by Snowflake.
@@ -25,8 +23,6 @@ Features:
 
 https://github.com/leodutra/simpleflakes
 
----
-
 ### country-emoji
 Lightweight Rust library that converts between **country names, ISO-3166 codes, and flag emojis**.
 
@@ -38,11 +34,9 @@ Features:
 
 https://github.com/leodutra/country-emoji
 
----
+## Data & Scraping Experiments
 
-# Data & Scraping Experiments
-
-These projects explore **data collection pipelines and analysis tooling**.
+These projects explore data collection pipelines and analysis tooling.
 
 ### Elite Dangerous research tools
 
@@ -52,27 +46,21 @@ These projects explore **data collection pipelines and analysis tooling**.
 
 These tools collect and structure in-game lore and community data for analysis and exploration.
 
----
-
-# Systems Experiments
+## Systems Experiments
 
 ### arduino-joy-rs
-Rust experiment integrating **hardware input with Arduino controllers**.
+Rust experiment integrating hardware input with Arduino controllers.
 
 https://github.com/leodutra/arduino-joy-rs
 
----
-
-# Utility Libraries
+## Utility Libraries
 
 Small utilities and API integrations:
 
 - https://github.com/leodutra/newsapi  
 - https://github.com/leodutra/imdb  
 
----
-
-# Developer Guides
+## Developer Guides
 
 ### WSL Development Environment Setup
 
@@ -87,9 +75,7 @@ Guide for configuring a complete development environment using:
 
 https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00
 
----
-
-# Current Technical Focus
+## Current Technical Focus
 
 - Rust (Tokio / Axum)
 - LLM agents and tool calling
@@ -98,9 +84,7 @@ https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00
 - Model Context Protocol (MCP)
 - local LLM inference
 
----
-
-# Interests
+## Interests
 
 - AI infrastructure
 - distributed systems
@@ -108,9 +92,7 @@ https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00
 - developer tooling
 - high-performance platforms
 
----
-
-# Connect
+## Connect
 
 LinkedIn  
 https://linkedin.com/in/leobr
