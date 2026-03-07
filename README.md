@@ -1,16 +1,18 @@
 # Leo Dutra
 
-Staff Software Engineer focused on **distributed systems, high-performance platforms, and AI infrastructure**.
+Rust • Distributed Systems • AI Infrastructure • Headless Commerce
 
-I have 20+ years of experience designing and scaling production systems for global companies in e-commerce, fintech, legaltech, and gaming.
+Staff Software Engineer focused on **high-performance systems, distributed platforms, and AI infrastructure**.
 
-My background spans **full-stack architecture, distributed backend systems, and headless commerce platforms**, particularly using Shopify Headless (Hydrogen/Remix), React, TypeScript, and Node.js.
+I have 20+ years of experience designing and scaling production systems for global companies in **e-commerce, fintech, legaltech, and gaming**, including platforms used by millions of users.
 
-More recently I’ve been exploring **AI-native systems**, integrating LLM agents, retrieval pipelines, and scalable infrastructure using Rust and modern web technologies.
+My background spans full-stack architecture, distributed backend systems, and headless commerce platforms, with a focus on Shopify Headless (Hydrogen/Remix), React, TypeScript, and Node.js.
+
+More recently, I’ve been exploring **AI-native systems**, integrating LLM agents, retrieval pipelines, and scalable infrastructure using Rust and modern web technologies.
 
 ---
 
-# Selected Projects
+# Some Public Projects
 
 ### simpleflakes
 Fast distributed **64-bit ID generator** inspired by Snowflake.
@@ -18,7 +20,7 @@ Fast distributed **64-bit ID generator** inspired by Snowflake.
 Features:
 - time-ordered unique IDs
 - distributed-safe generation
-- extremely fast (~millions of IDs/sec)
+- extremely high performance
 - zero dependencies
 
 https://github.com/leodutra/simpleflakes
@@ -38,9 +40,9 @@ https://github.com/leodutra/country-emoji
 
 ---
 
-# Data & Scraping Projects
+# Data & Scraping Experiments
 
-These projects explore **data collection and processing pipelines**.
+These projects explore **data collection pipelines and analysis tooling**.
 
 ### Elite Dangerous research tools
 
@@ -48,14 +50,14 @@ These projects explore **data collection and processing pipelines**.
 - https://github.com/leodutra/ed-galnet-scraper  
 - https://github.com/leodutra/ed-tourist-beacon-scraper  
 
-These tools collect and structure in-game lore and community data for analysis.
+These tools collect and structure in-game lore and community data for analysis and exploration.
 
 ---
 
 # Systems Experiments
 
 ### arduino-joy-rs
-Rust experiment integrating hardware input with Arduino-based controllers.
+Rust experiment integrating **hardware input with Arduino controllers**.
 
 https://github.com/leodutra/arduino-joy-rs
 
@@ -63,10 +65,27 @@ https://github.com/leodutra/arduino-joy-rs
 
 # Utility Libraries
 
-Small libraries and API integrations:
+Small utilities and API integrations:
 
 - https://github.com/leodutra/newsapi  
 - https://github.com/leodutra/imdb  
+
+---
+
+# Developer Guides
+
+### WSL Development Environment Setup
+
+Guide for configuring a complete development environment using:
+
+- WSL2
+- ZSH + Oh My Zsh
+- Powerlevel themes
+- Hyper terminal
+- Node via NVM
+- VSCode configuration
+
+https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00
 
 ---
 
@@ -87,7 +106,7 @@ Small libraries and API integrations:
 - distributed systems
 - headless commerce
 - developer tooling
-- high-performance systems
+- high-performance platforms
 
 ---
 
