@@ -1,92 +1,97 @@
 # Leo Dutra
 
-Staff Software Engineer focused on high-performance systems, distributed platforms, and AI infrastructure.
+Staff Software Engineer focused on **distributed systems, high-performance platforms, and AI infrastructure**.
 
-I have 20+ years of experience building production systems for global companies in e-commerce, fintech, legaltech, and gaming, including platforms used by millions of users.
+I have 20+ years of experience designing and scaling production systems for global companies in e-commerce, fintech, legaltech, and gaming.
 
-Recently I’ve been focusing on building **AI-native systems**, combining LLM agents, RAG pipelines, and scalable infrastructure using Rust and modern web technologies.
+My background spans **full-stack architecture, distributed backend systems, and headless commerce platforms**, particularly using Shopify Headless (Hydrogen/Remix), React, TypeScript, and Node.js.
 
----
-
-## What I Work On
-
-- AI infrastructure and LLM systems
-- RAG pipelines and vector search
-- distributed backend platforms
-- high-performance web systems
-- headless commerce architectures
-- developer tooling and automation
+More recently I’ve been exploring **AI-native systems**, integrating LLM agents, retrieval pipelines, and scalable infrastructure using Rust and modern web technologies.
 
 ---
 
-## Current Technical Focus
+# Selected Projects
 
-- **Rust** (Tokio, Axum)
-- **LLM agents & tool calling**
-- **RAG architectures**
-- **vector databases and embeddings**
-- **Model Context Protocol (MCP)**
-- **local LLM inference**
+### simpleflakes
+Fast distributed **64-bit ID generator** inspired by Snowflake.
 
----
+Features:
+- time-ordered unique IDs
+- distributed-safe generation
+- extremely fast (~millions of IDs/sec)
+- zero dependencies
 
-## Core Technologies
-
-### Backend
-Rust • Node.js • TypeScript • GraphQL • REST • gRPC
-
-### Frontend
-React • Next.js • Remix • Shopify Hydrogen
-
-### Infrastructure
-Docker • Kubernetes • AWS • CI/CD
-
-### AI / Systems
-LLM APIs • RAG pipelines • vector search • agent systems
+https://github.com/leodutra/simpleflakes
 
 ---
 
-## AI Projects
+### country-emoji
+Lightweight Rust library that converts between **country names, ISO-3166 codes, and flag emojis**.
 
-Some of the AI systems and experiments I'm currently building:
+Features:
+- fast lookups
+- fuzzy matching of country names
+- normalization of diacritics and formatting
+- bidirectional conversion (code ↔ name ↔ flag)
 
-- **RAG knowledge systems** for semantic search and contextual retrieval
-- **LLM agent workflows** integrating tools and external APIs
-- **Model Context Protocol (MCP) services** for structured tool interaction
-- **Local LLM inference pipelines** for private and offline AI workflows
-- **Vector search experiments** using embeddings and semantic indexing
-- **Rust-based AI tooling** for building fast AI infrastructure components
-
-These projects explore how to design **production-grade AI systems that integrate with real software platforms**, not just research prototypes.
+https://github.com/leodutra/country-emoji
 
 ---
 
-## Professional Background
+# Data & Scraping Projects
 
-I've worked on platforms and systems for companies in:
+These projects explore **data collection and processing pipelines**.
 
-- e-commerce
-- fintech
-- marketplaces
-- SaaS
-- gaming
+### Elite Dangerous research tools
 
-including projects for global brands such as **Spanx** and **Skims**.
+- https://github.com/leodutra/ed-raxxla-forum-scraper  
+- https://github.com/leodutra/ed-galnet-scraper  
+- https://github.com/leodutra/ed-tourist-beacon-scraper  
 
-My work often focuses on **system architecture, performance optimization, and scaling applications under real production traffic.**
+These tools collect and structure in-game lore and community data for analysis.
 
 ---
 
-## Currently Exploring
+# Systems Experiments
 
-- AI-native developer tooling
-- Rust for AI infrastructure
-- GPU computing and AI acceleration
-- agent architectures and autonomous workflows
+### arduino-joy-rs
+Rust experiment integrating hardware input with Arduino-based controllers.
+
+https://github.com/leodutra/arduino-joy-rs
 
 ---
 
-## Links
+# Utility Libraries
+
+Small libraries and API integrations:
+
+- https://github.com/leodutra/newsapi  
+- https://github.com/leodutra/imdb  
+
+---
+
+# Current Technical Focus
+
+- Rust (Tokio / Axum)
+- LLM agents and tool calling
+- RAG architectures
+- vector databases and embeddings
+- Model Context Protocol (MCP)
+- local LLM inference
+
+---
+
+# Interests
+
+- AI infrastructure
+- distributed systems
+- headless commerce
+- developer tooling
+- high-performance systems
+
+---
+
+# Connect
 
 LinkedIn  
 https://linkedin.com/in/leobr
