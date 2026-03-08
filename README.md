@@ -30,7 +30,6 @@ Here is a selection of open-source projects and public work I’ve shared:
 
 | Project | Description |
 |---|---|
-| [**ed-raxxla-forum-scraper**](https://github.com/leodutra/ed-raxxla-forum-scraper) | Elite Dangerous forum lore scraper |
 | [**ed-galnet-scraper**](https://github.com/leodutra/ed-galnet-scraper) | GalNet news article collector |
 | [**ed-tourist-beacon-scraper**](https://github.com/leodutra/ed-tourist-beacon-scraper) | Tourist beacon data extractor |
 
