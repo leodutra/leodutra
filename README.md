@@ -30,12 +30,16 @@ Here is a selection of open-source projects and public work I’ve shared:
 
 | Project | Description |
 |---|---|
-| [**ed-galnet-scraper**](https://github.com/leodutra/ed-galnet-scraper) | GalNet news article collector |
-| [**ed-tourist-beacon-scraper**](https://github.com/leodutra/ed-tourist-beacon-scraper) | Tourist beacon data extractor |
+| [**ed-galnet-scraper**](https://github.com/leodutra/ed-galnet-scraper) | Rust GalNet news article collector |
+| [**ed-tourist-beacon-scraper**](https://github.com/leodutra/ed-tourist-beacon-scraper) | Rust Tourist beacon data extractor |
+| [**IMDb**](https://github.com/yoursvivek/imdb/commits/main/) | Rust library to retrieve information from IMDb (2020) |
 
 ## Guides & Gists
 
-- [**WSL Development Environment Setup**](https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00) — Full dev environment with WSL2, ZSH, Node, and VSCode  
+- [**Personal Specific Agent Skills Collection**](https://github.com/leodutra/agent-skills)
+- [**Installing Arch Linux on WSL 2.6.3+**](https://gist.github.com/leodutra/1326a1d9cbaa733a0152270f9e59fec2)
+- [**WSL Development Environment Setup**](https://gist.github.com/leodutra/a6cebe11db5414cdaedc6e75ad194a00) — Full dev environment with WSL2, ZSH, Node, and VSCode
+- [**Rust Dev Env Install - 2026 - Arch Linux**](https://gist.github.com/leodutra/ce64b3d6c9335c1e2b587eeb8c80d1d7)
 - [**Bitwise Math Utilities**](https://gist.github.com/leodutra/63ca94fe86dcffee1bab) — High-performance integer math helpers using bitwise operations  
 
 ## Connect
