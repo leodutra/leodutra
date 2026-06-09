@@ -22,6 +22,7 @@ Here is a selection of open-source projects and public work I’ve shared:
 
 | Project | Description |
 |---|---|
+| [**agent-skills**](https://github.com/leodutra/agent-skills) | Personal collection of reusable AI agent skills, workflows, and engineering playbooks |
 | [**simpleflakes**](https://github.com/leodutra/simpleflakes) | TypeScript Fast distributed 64-bit ID generator inspired by Snowflake |
 | [**country-emoji**](https://github.com/leodutra/country-emoji) | Rust library for converting between country names, ISO codes, and flag emojis |
 | [**arduino-joy-rs**](https://github.com/leodutra/arduino-joy-rs) | Rust experiment for interfacing Arduino-based controllers |
