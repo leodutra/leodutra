@@ -118,6 +118,7 @@ Whenever possible, I choose simplicity over unnecessary complexity.
 * AI-assisted Software Engineering
 * Model Context Protocol (MCP)
 * Agentic Workflows
+* Shopify Headless & React
 * Developer Tooling
 * Distributed Systems
 * Cloud Architecture
