@@ -8,12 +8,12 @@ My experience spans global e-commerce, fintech, banking, distributed systems, an
 
 ## Companies I've Contributed To
 
-* **SPANX**
-* **SKIMS**
-* **X-Team**
-* **Crossover / Aurea**
-* **Stone**
-* **Bradesco**
+* **[SPANX](https://spanx.com)**
+* **[SKIMS](https://skims.com)**
+* **[X-Team](https://x-team.com)**
+* **[Crossover](https://crossover.com)** / **[Aurea](https://aurea.com)**
+* **[Stone](https://www.stone.com.br)**
+* **[Bradesco](https://banco.bradesco)**
 
 ---
 
