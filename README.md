@@ -9,7 +9,7 @@ My experience spans global e-commerce, fintech, banking, distributed systems, an
 ## Companies I've Contributed To
 
 * **SPANX**
-* **SKIMS** (via X-Team)
+* **SKIMS**
 * **X-Team**
 * **Crossover / Aurea**
 * **Stone**
