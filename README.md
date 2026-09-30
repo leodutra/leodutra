@@ -1,8 +1,10 @@
 # Hi, I'm Leo Dutra
 
-**Staff Software Engineer** with 20+ years of experience building scalable software, cloud platforms, and developer tools used by millions of users worldwide.
+Staff-level software engineer, former CTO and Chief Software Architect, with 20+ years building production systems across e-commerce, fintech, payments, SaaS, and gaming, working remotely from Brazil with U.S.
+companies since 2018. Owned internationalization end-to-end for SPANX and SKIMS on Shopify Hydrogen/Remix. 
 
-My experience spans global e-commerce, fintech, banking, distributed systems, and AI-assisted developer tooling. Since most of my professional work is proprietary, this GitHub showcases the open-source libraries, experiments, and tools that reflect how I approach software engineering.
+Strong in React, TypeScript, Node.js, Rust, AWS, and distributed systems, now applying that systems background
+to AI engineering with LLM agents, RAG, MCP, and local inference.
 
 ## Companies I've Contributed To
 
