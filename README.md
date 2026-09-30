@@ -125,5 +125,7 @@ Whenever possible, I choose simplicity over unnecessary complexity.
 If you're interested in software architecture, distributed systems, Rust, developer tooling, AI engineering, or building products that solve real-world problems, I'd love to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/leobr)
-[![StackShare](https://img.shields.io/badge/StackShare-0690FA?style=flat\&logo=stackshare\&logoColor=white)](https://stackshare.io/leodutra)
+
+
+[StackShare]: https://img.shields.io/badge/StackShare-0690FA?style=flat\&logo=stackshare\&logoColor=white)](https://stackshare.io/leodutra
 
