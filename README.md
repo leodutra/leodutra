@@ -17,12 +17,12 @@ Former CTO and Chief Software Architect with 20+ years building production syste
 
 Most of my professional work lives in private repositories. Highlights, mostly through [X-Team](https://x-team.com):
 
-- **[Litz Odontologia](https://litzodontologia.com.br)** · Solo build: designed, built, and launched a dental clinic's website in 3 days with Claude Design and Claude Code in a spec-driven agentic workflow. It's a dependency-free static site scoring 100 in all four Lighthouse categories on mobile, with self-hosted fonts and AVIF/WebP images, no third-party scripts, and GitHub Actions deploys to GitHub Pages
 - **[SPANX](https://spanx.com)** · Lead Software Engineer: owned the Shopify Hydrogen global localization system for the U.S. and Canada (including Quebec) with Global-E, cut average page load 18% (2.0s → 1.64s), and built Rust tools for batched Sanity CMS data loading
 - **[SKIMS](https://skims.com)** · Senior Software Engineer: owned the storefront's internationalization end to end on Hydrogen/Remix, with Storefront and Admin API integrations in Node.js and Rust
 - **[Coinbase](https://www.coinbase.com)** · Senior Software Engineer: built a GPT-4 agent with LangChain that automated translation and review of localization content
 - **Fair / Shift** · Senior Engineer: cut main-page load time ~40% and architected a white-label automotive commerce platform
 - **Earlier:** CTO at [Legalcloud](https://legalcloud.com.br), Chief Software Architect at [Crossover](https://www.crossover.com) / [Aurea](https://aurea.com), the multi-tenant credentialing system at [Stone Payments](https://www.stone.com.br) (DDD, microservices), and tech lead at [BRQ Digital Solutions](https://www.brq.com)
+- **[Litz Odontologia](https://litzodontologia.com.br)** · Solo build: designed, built, and launched a dental clinic's website in 3 days with Claude Design and Claude Code in a spec-driven agentic workflow. It's a dependency-free static site scoring 100 in all four Lighthouse categories on mobile, with self-hosted fonts and AVIF/WebP images, no third-party scripts, and GitHub Actions deploys to GitHub Pages
 
 ## Open source
 
